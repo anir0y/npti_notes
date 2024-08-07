@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "067a3d0450d99821",
+    "type": "split",
+    "children": [
+      {
+        "id": "24321a61f3f8866d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbc0b84f7c451a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-1/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14ff8439f5e75492",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa33c23d2e1b5b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d12c1db4018cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac0fb000a5cd4078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b63359c9a146258",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e746c6aa7d51499",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a1639e56242063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c801faf8b05bb8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day-1/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b9c2c6e6e7bd98f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day-1/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddefbf72c394ae70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8953359d09cc0c37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day-1/Untitled.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5dbc0b84f7c451a4",
+  "lastOpenFiles": [
+    "Pasted image 20240805103401.png",
+    "Day-5/Honeypot.md",
+    "Day-1/Untitled.md",
+    "Day-4/8. OSSEC HIDS Lab.md",
+    "Day-4/7. Host- Endpoint Intrusion Detection Lab using Wazuh.md",
+    "Day-4/6. Visualization of security events using ELK.md",
+    "Day-4/5. Visualization of network traffic data.md",
+    "Untitled.md",
+    "Day-2/1.1 Manual Tools to check malware.md",
+    "Day-5",
+    "Day-4/4.1  Using Snort NIDS.md",
+    "Day-4/4.2 Using Zeek  NIDS.md",
+    "Day-4/2. Reconnaissance on wifi network using aircrack-ng.md",
+    "Day-4/1. Password sniffing in wifi network.md",
+    "Day-2/1.2. Yara.md",
+    "Day-2/1.3. oletools.md",
+    "10. Creating Virus for lab env.md",
+    "Day-4/4. IDS Lab.md",
+    "Day-4/3. Wifi password cracking lab.md",
+    "Day-3/5. MITM - Proxy.md",
+    "0 - pre-req/1. Tools for Host OS.md",
+    "Day-3/1. Buffer overflow.md",
+    "Day-3/4.1 Arp Spoofing lab.md",
+    "Day-3/4. Arp Spoofing.md",
+    "Day-3/3. Web Security.md",
+    "Day-3/1.1 Buffer overflow Exploit.md",
+    "Day-3/2. Integer Overflow Lab.md",
+    "Pasted image 20240729124335.png",
+    "Pasted image 20240729124256.png",
+    "Pasted image 20240729124033.png",
+    "Pasted image 20240729123950.png",
+    "Pasted image 20240729123846.png",
+    "Pasted image 20240729123657.png",
+    "Pasted image 20240729123547.png",
+    "Pasted image 20240707175929.png",
+    "Pasted image 20240707173552.png",
+    "Pasted image 20240707135543.png",
+    "Day-4",
+    "0 - pre-req",
+    "Day-1",
+    "Untitled.canvas",
+    "Day-3",
+    "Day-2"
+  ]
+}
